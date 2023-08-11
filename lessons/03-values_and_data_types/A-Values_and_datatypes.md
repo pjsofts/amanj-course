@@ -81,9 +81,9 @@ Now, let's see some variable examples:
 
 ```javascript
 // Variable declaration and assignment
-var age = 30;
-var name = "Alice";
-var isLoggedIn = true;
+let age = 30;
+let name = "Alice";
+let isLoggedIn = true;
 
 // Variable reassignment
 age = 31;
