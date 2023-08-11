@@ -17,8 +17,8 @@ var price = 99.99; // Floating-point number
 2. **Strings**: Used for storing text.
 
 ```javascript
-var name = "John"; // Double or single quotes can be used
-var message = 'Hello, world!';
+let name = "John"; // Double or single quotes can be used
+let message = 'Hello, world!';
 ```
 
 3. **Booleans**: Used for storing true or false values.
