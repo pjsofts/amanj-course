@@ -10,8 +10,8 @@ Let's go through some common data types with code examples:
 1. **Numbers**: Used for storing numeric values.
 
 ```javascript
-var age = 25; // Integer
-var price = 99.99; // Floating-point number
+let age = 25; // Integer
+let price = 99.99; // Floating-point number
 ```
 
 2. **Strings**: Used for storing text.
