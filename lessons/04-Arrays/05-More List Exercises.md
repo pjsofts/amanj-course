@@ -19,6 +19,10 @@
 20. Check if a list is empty.
 
 
+
+<br>
+
+
 1. Find the sum of all elements in a list of integers:
 ```javascript
 function findSum(list) {
