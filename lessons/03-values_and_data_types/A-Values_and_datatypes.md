@@ -24,27 +24,27 @@ let message = 'Hello, world!';
 3. **Booleans**: Used for storing true or false values.
 
 ```javascript
-var isLogged = true;
-var hasPermission = false;
+let isLogged = true;
+let hasPermission = false;
 ```
 
 4. **Null**: Represents the intentional absence of any value.
 
 ```javascript
-var myVar = null;
+let myVar = null;
 ```
 
 5. **Undefined**: Represents an uninitialized variable or a missing value.
 
 ```javascript
-var myVar;
+let myVar;
 console.log(myVar); // Outputs: undefined
 ```
 
 6. **Objects**: Used for storing collections of key-value pairs.
 
 ```javascript
-var person = {
+let person = {
     firstName: "Alice",
     lastName: "Johnson",
     age: 30
@@ -54,7 +54,7 @@ var person = {
 7. **Arrays**: Used for storing ordered collections of values.
 
 ```javascript
-var colors = ["red", "green", "blue"];
+let colors = ["red", "green", "blue"];
 ```
 
 8. **Functions**: Used for storing reusable blocks of code.
@@ -68,13 +68,13 @@ function add(a, b) {
 9. **Symbols** (ES6): Used to create unique identifiers.
 
 ```javascript
-var id = Symbol("uniqueID");
+let id = Symbol("uniqueID");
 ```
 
 10. **BigInt** (ES11): Used for working with large integers.
 
 ```javascript
-var bigValue = 1234567890123456789012345678901234567890n;
+let bigValue = 1234567890123456789012345678901234567890n;
 ```
 
 Now, let's see some variable examples:
@@ -91,7 +91,7 @@ name = "Bob";
 isLoggedIn = false;
 
 // Using variables in expressions
-var total = age + 10;
-var greeting = "Hello, " + name + "!";
+let total = age + 10;
+let greeting = "Hello, " + name + "!";
 ```
 
