@@ -5,7 +5,6 @@ keywords:
   - A course starter
   - Next.js
   - React
-  - Brian Holt
 ---
 
 Hello! And welcome to the Javascript course starter by [Pouria Jahandideh][linkedin].
