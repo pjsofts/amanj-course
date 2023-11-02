@@ -22,8 +22,8 @@ console.log(20 / 4); // Division
 - Use `console.log()` to display a message in the console, including the variables you declared. For example:
 
 ```javascript
-var name = "John";
-var age = 30;
+let name = "John";
+let age = 30;
 console.log("My name is " + name + " and I am " + age + " years old.");
 ```
 
