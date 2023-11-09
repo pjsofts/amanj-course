@@ -1,0 +1,48 @@
+order,sectionTitle,lessonTitle,slug,sectionIcon,filePath,description
+01A,Getting Started,Introduction,Getting-Started/intro,info-circle,/lessons/Getting-Started/intro,The introduction to this course.
+01B,Getting Started,Getting Started,Getting-Started/GettingStarted,info-circle,/lessons/Getting-Started/GettingStarted,What is JavaScript?
+01C,Getting Started,Simple Exercises,Getting-Started/SimpleExercises,info-circle,/lessons/Getting-Started/SimpleExercises,For beginners
+01D,Getting Started,Homework Assignment,Getting-Started/HomeWork,info-circle,/lessons/Getting-Started/HomeWork,For practice
+02A,Variables and Data Types,Variables and Data Types,Variables-and-Data-Types/Variables,info-circle,/lessons/Variables-and-Data-Types/Variables,Variables and Data Types
+02B,Variables and Data Types,Exercises,Variables-and-Data-Types/Exercises,info-circle,/lessons/Variables-and-Data-Types/Exercises,Variables and Data Types Exercises
+02C,Variables and Data Types,DOM Exercises,Variables-and-Data-Types/DOM Exercises,info-circle,/lessons/Variables-and-Data-Types/DOM Exercises,DOM Exercises
+02D,Variables and Data Types,DOM Exercises Answers,Variables-and-Data-Types/DOM Answers,info-circle,/lessons/Variables-and-Data-Types/DOM Answers,DOM Exercises Answers
+03A,Operators and Expressions,Operators and Expressions,Operators and Expressions/Expressions-and-Operators,info-circle,/lessons/Operators and Expressions/Expressions-and-Operators,Operators and Expressions
+03B,Operators and Expressions,Operators and Expressions Exercises,Operators and Expressions/Exercises,info-circle,/lessons/Operators and Expressions/Exercises,Operators and Expressions Exercises
+03C,Operators and Expressions,HTML Review,Operators and Expressions/HTML review,info-circle,/lessons/Operators and Expressions/HTML review,HTML Review
+03D,Operators and Expressions,HTML Review 2,Operators and Expressions/HTML review2,info-circle,/lessons/Operators and Expressions/HTML review2,HTML Review 2
+03E,Operators and Expressions,HTML Review 3,Operators and Expressions/HTML review3,info-circle,/lessons/Operators and Expressions/HTML review3,HTML Review 3
+0401,Arrays,Arrays Introduction,Arrays/Arrays Introduction,info-circle,/lessons/Arrays/Arrays Introduction,""
+0402,Arrays,Array Methods,Arrays/Array Methods,info-circle,/lessons/Arrays/Array Methods,""
+0403,Arrays,Array Exercises,Arrays/Array Exercises,info-circle,/lessons/Arrays/Array Exercises,""
+0404,Arrays,Array and DOM,Arrays/Array and DOM,info-circle,/lessons/Arrays/Array and DOM,""
+0405,Arrays,More List Exercises,Arrays/More List Exercises,info-circle,/lessons/Arrays/More List Exercises,""
+0501,Objects,Introduction to JavaScript Objects,Objects/Objects_Introduction,info-circle,/lessons/Objects/Objects_Introduction,""
+0502,Objects,Manipulating Javascript Objects,Objects/Manipulating_Objects,info-circle,/lessons/Objects/Manipulating_Objects,""
+0503,Objects,Advanced JavaScript Objects,Objects/Advanced-Javascript-Objects,info-circle,/lessons/Objects/Advanced-Javascript-Objects,""
+0504,Objects,Object Exercises,Objects/ObjectExercises,info-circle,/lessons/Objects/ObjectExercises,""
+0505,Objects,Programming Exercises Using Objects ,Objects/ObjectExercise,info-circle,/lessons/Objects/ObjectExercise,""
+0506,Objects,Answers to Programming Exercises Using Objects ,Objects/Answers,info-circle,/lessons/Objects/Answers,""
+0507,Objects,Interesting Object Exercises ,Objects/MoreExercises,info-circle,/lessons/Objects/MoreExercises,""
+0601,Functions,Introduction to JavaScript Functions,Functions/Introduction,info-circle,/lessons/Functions/Introduction,""
+0602,Functions,Function Scope and Hoisting in JavaScript,Functions/Scope,info-circle,/lessons/Functions/Scope,""
+0603,Functions,"Function Parameters, Arguments, and Return Values",Functions/Parameters,info-circle,/lessons/Functions/Parameters,""
+0604,Functions,Function Exercises,Functions/Exercises,info-circle,/lessons/Functions/Exercises,""
+0605,Functions,Functions and DOM Exercises,Functions/DOM,info-circle,/lessons/Functions/DOM,""
+0701,Promises and Data Fetching,Introduction to Data Fetching and Promises,Promises-and-Data-Fetching/Introduction,info-circle,/lessons/Promises-and-Data-Fetching/Introduction,""
+0702,Promises and Data Fetching,Promise Methods and Error Handling,Promises-and-Data-Fetching/Methods,info-circle,/lessons/Promises-and-Data-Fetching/Methods,""
+0703,Promises and Data Fetching,Advanced Promise Concepts and Data Flow Management,Promises-and-Data-Fetching/Flow,info-circle,/lessons/Promises-and-Data-Fetching/Flow,""
+0704,Promises and Data Fetching,Promises and Data Fretching Exercises,Promises-and-Data-Fetching/Exercises,info-circle,/lessons/Promises-and-Data-Fetching/Exercises,""
+0705,Promises and Data Fetching,Answers to Promises and Data Fretching Exercises,Promises-and-Data-Fetching/Answers,info-circle,/lessons/Promises-and-Data-Fetching/Answers,""
+0801,Modules,Creating and Using JavaScript Modules,Modules/Modules,info-circle,/lessons/Modules/Modules,""
+0802,Modules,Advanced JavaScript Modules and Best Practices,Modules/Modules2,info-circle,/lessons/Modules/Modules2,""
+0901,Debugging,Introduction to JavaScript Debugging,Debugging/Debugging,info-circle,/lessons/Debugging/Debugging,""
+0902,Debugging,Advanced JavaScript Debugging Techniques,Debugging/Debugging2,info-circle,/lessons/Debugging/Debugging2,""
+1001,ExceptionHandling,Introduction to Try-Catch and Exception Handling,ExceptionHandling/Exception1,info-circle,/lessons/ExceptionHandling/Exception1,""
+1002,ExceptionHandling,Advanced JavaScript Exception Handling,ExceptionHandling/Exception2,info-circle,/lessons/ExceptionHandling/Exception2,""
+1003,ExceptionHandling,Advanced JavaScript Exception Handling Strategies,ExceptionHandling/Exception3,info-circle,/lessons/ExceptionHandling/Exception3,""
+1101,Closures,Introduction to Closures,Closures/Closure1,info-circle,/lessons/Closures/Closure1,""
+1102,Closures,Closures Advanced Concepts,Closures/Closure2,info-circle,/lessons/Closures/Closure2,""
+22A,DOM,Document Object Model,DOM/document-object-model,dumpster-fire,/lessons/DOM/document-object-model,""
+22B,DOM,DOM Exercises,DOM/DOM-exercises,dumpster-fire,/lessons/DOM/DOM-exercises,DOM exercises
+23A,Values and Data Types,Values and Data Types,values_and_data_types/Values_and_datatypes,file-code,/lessons/values_and_data_types/Values_and_datatypes,Javascript Basic Datatypes
